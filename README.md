@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **induvidual project**
 
-- 👨‍💻 All of my projects are available at [cemgokce.com](cemgokce.com)
+- 👨‍💻 All of my projects are available at [www.cemgokce.com](www.cemgokce.com)
 
 - 💬 Ask me about **react, react native also next**
 
