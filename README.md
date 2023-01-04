@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **individual project**
 
-- 👨‍💻 All of my projects are available at [http://www.cemgokce.com](http://www.cemgokce.com)
-
 - 💬 Ask me about **react, react native also next**
 
 - 📫 How to reach me **cemgokce9619@gmail.com**
